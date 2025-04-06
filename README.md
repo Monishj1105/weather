@@ -96,4 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - The application utilizes the [OpenWeatherMap API](https://openweathermap.org/api) for weather data.
-- Special thanks to the contributors and the open-source community for their support. 
+
